@@ -1,10 +1,3 @@
-### Setup
-1. Your are required to use `TypeScript` for the task and build the APIs (endpoints) with `express`
-2. Use and setup the project with `Yarn`
-3. Install docker on your Mac <a href="https://desktop.docker.com/mac/stable/Docker.dmg">Download</a>
-4. Create a docker Registry on <a href="https://hub.docker.com/signup">Create Account</a>
-5. Containerize your application with Docker.
-
 ## Problem Description:
 
 Imagine you are asked to develop a transfer service with APIs to transfer money between two accounts
